@@ -1,6 +1,6 @@
 # Summary:
-###### Detail-oriented, quick, and self-directed DevOps engineer with more than a decade (+10 years) of hands-on experience in various roles including team and product management. Designed, implemented, and managed various Cloud, DevOps, and infrastructure projects.
-###### I am currently working in ArvanCloud
+###### I have over 15 years of experience working in computer science. Currently, I'm a Software Engineer and Python Developer in Adlim company.
+###### I am currently working stand alone
 
 ## Socials:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmahdipour/)
